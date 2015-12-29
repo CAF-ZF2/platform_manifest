@@ -84,11 +84,11 @@
   <project path="system/extras" name="platform_system_extras" remote="github" />
   <project path="system/media" name="platform_system_media" remote="github" />
   <project path="system/vold" name="platform_system_vold" remote="github" /> 
+  <project path="system/qcom" name="platform_system_qcom" remote="github" />
   <project path="vendor/aosp" name="platform_vendor_aosp" remote="github" />
   <project path="vendor/qcom/opensource/display-frameworks" name="platform_vendor_qcom-opensource_display-frameworks" remote="github" />
   <project path="vendor/qcom/opensource/dpm" name="platform_vendor_qcom-opensource_dpm" remote="github" />
   <project path="vendor/qcom/opensource/fm" name="platform_vendor_qcom-opensource_fm" remote="github" />
-  <project path="vendor/qcom/opensource/softap" name="platform_vendor_qcom-opensource_softap" remote="github" />
   <project path="vendor/qcom/opensource/time-services" name="platform_vendor_qcom-opensource_time-services" remote="github" />
   
 <!-- BEGIN CYANOGENMOD -->
