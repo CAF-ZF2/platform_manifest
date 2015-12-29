@@ -31,6 +31,7 @@
   <project path="external/ant-wireless/ant_native" name="platform_external_ant-wireless_ant_native" remote="github" />
   <project path="external/ant-wireless/antradio-library" name="platform_external_ant-wireless_antradio-library" remote="github" />
   <project path="external/apache-http" name="platform_external_apache-http" remote="github" />
+  <project path="external/bash" name="platform_external_bash" groups="pdk" remote="github" />
   <project path="external/busybox" name="platform_external_busybox" groups="pdk" remote="github" />
   <project path="external/connectivity" name="platform_external_connectivity" remote="github" />
   <project path="external/e2fsprogs" name="platform_external_e2fsprogs" remote="github" />
@@ -92,6 +93,7 @@
   <project path="vendor/qcom/opensource/time-services" name="platform_vendor_qcom-opensource_time-services" remote="github" />
   
 <!-- BEGIN CYANOGENMOD -->
+  <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" remote="cm" />
   <project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" remote="cm" />
   <project path="hardware/qcom/audio/default" name="CyanogenMod/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="cm" />
   <project path="hardware/qcom/audio-caf/msm8916" name="CyanogenMod/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="cm-13.0-caf-8916" remote="cm" />
@@ -311,6 +313,7 @@
   <project path="external/tcpdump" name="platform/external/tcpdump" />
   <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" />
   <project path="external/tinyxml2" name="platform/external/tinyxml2" />
+  <project path="external/toybox" name="platform/external/toybox" groups="pdk" />
   <project path="external/tremolo" name="platform/external/tremolo" groups="pdk" />
   <project path="external/v8" name="platform/external/v8" groups="pdk" />
   <project path="external/valgrind" name="platform/external/valgrind" groups="pdk" />
