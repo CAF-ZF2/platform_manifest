@@ -33,7 +33,7 @@
   <project path="device/qcom/common" name="device_qcom_common" remote="github" />
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="github" />
   <project path="art" name="platform_art" remote="github" />
-  <project path="bionic" name="platform_bionic" remote="zf2" />
+  <project path="bionic" name="platform_bionic" remote="github" />
   <project path="development" name="platform_development" remote="github" />
   <project path="external/android-mock" name="platform_external_android-mock" remote="github" />
   <project path="external/ant-wireless/ant_native" name="platform_external_ant-wireless_ant_native" remote="github" />
