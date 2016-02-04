@@ -42,7 +42,7 @@
   <project path="external/android-mock" name="platform_external_android-mock" remote="github" />
   <project path="external/ant-wireless/ant_native" name="platform_external_ant-wireless_ant_native" remote="github" />
   <project path="external/ant-wireless/antradio-library" name="platform_external_ant-wireless_antradio-library" remote="github" />
-  <project path="external/apache-http" name="platform_external_apache-http" remote="github" />
+  <project path="external/apache-http" name="platform_external_apache-http" remote="zf2" />
   <project path="external/bash" name="platform_external_bash" groups="pdk" remote="github" />
   <project path="external/busybox" name="platform_external_busybox" groups="pdk" remote="github" />
   <project path="external/connectivity" name="platform_external_connectivity" remote="github" />
@@ -58,11 +58,11 @@
   <project path="external/mksh" name="platform_external_mksh" remote="github" />
   <project path="external/mm-dash" name="platform_external_mm-dash" remote="github" />
   <project path="external/ntfs-3g" name="platform_external_ntfs-3g" groups="pdk" remote="github" />
-  <project path="external/okhttp" name="platform_external_okhttp" remote="github" />
+  <project path="external/okhttp" name="platform_external_okhttp" remote="zf2" />
   <project path="external/sepolicy" name="platform_external_sepolicy" remote="github" />
   <project path="external/skia" name="platform_external_skia" remote="github" />
   <project path="external/stagefright-plugins" name="platform_external_stagefright-plugins" remote="github" />
-  <project path="external/tinyalsa" name="platform_external_tinyalsa" remote="github" />
+  <project path="external/tinyalsa" name="platform_external_tinyalsa" remote="zf2" />
   <project path="external/tinycompress" name="platform_external_tinycompress" remote="github" />
   <project path="external/zlib" name="platform_external_zlib" remote="github" />
   <project path="frameworks/av" name="platform_frameworks_av" remote="github" />
