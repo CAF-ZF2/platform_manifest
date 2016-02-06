@@ -73,7 +73,6 @@
   <project path="frameworks/base" name="platform_frameworks_base" remote="github" />
   <project path="frameworks/native" name="platform_frameworks_native" remote="zf2" />
   <project path="hardware/broadcom/libbt" name="CyanogenMod/android_hardware_broadcom_libbt" remote="cm" />
-  <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" remote="cm" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="xd" />
   <project path="hardware/libhardware" name="platform_hardware_libhardware" groups="pdk" remote="zf2" />
   <project path="hardware/libhardware_legacy" name="platform_hardware_libhardware_legacy" groups="pdk" remote="github" />
