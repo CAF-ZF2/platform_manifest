@@ -100,6 +100,7 @@
   
 <!-- BEGIN CYANOGENMOD -->
   <project path="external/stlport" name="CyanogenMod/android_external_stlport" remote="cm" />
+  <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" remote="cm" />
   <project path="hardware/intel/common/libmix" name="CyanogenMod/android_hardware_intel_common_libmix" remote="cm" />
   <project path="hardware/intel/common/libva" name="CyanogenMod/android_hardware_intel_common_libva" remote="cm"  />
   <project path="hardware/intel/common/libwsbm" name="CyanogenMod/android_hardware_intel_common_libwsbm" remote="cm" />
