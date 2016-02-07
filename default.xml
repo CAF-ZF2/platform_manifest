@@ -87,7 +87,7 @@
   <project path="packages/apps/Settings" name="platform_packages_apps_Settings" remote="github" />
   <project path="packages/inputmethods/LatinIME" name="platform_packages_inputmethods_LatinIME" remote="github" />
   <project path="packages/providers/MediaProvider"  name="platform_packages_providers_MediaProvider" remote="github" />
-  <project path="packages/services/Telephony" name="platform_packages_services_Telephony" remote="github" />
+  <project path="packages/services/Telephony" name="platform_packages_services_Telephony" remote="zf2" />
   <project path="system/core" name="platform_system_core" remote="zf2" />
   <project path="system/extras" name="platform_system_extras" remote="github" />
   <project path="system/media" name="platform_system_media" remote="github" />
