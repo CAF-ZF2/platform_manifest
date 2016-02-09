@@ -43,9 +43,9 @@
   <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="device/qcom/common" name="device_qcom_common" remote="github" />
-  <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="br" />
+  <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="zf2" />
   <project path="art" name="platform_art" remote="github" />
-  <project path="bionic" name="platform_bionic" remote="github" />
+  <project path="bionic" name="platform_bionic" remote="zf2" />
   <project path="development" name="platform_development" remote="github" />
   <project path="external/android-mock" name="platform_external_android-mock" remote="github" />
   <project path="external/ant-wireless/ant_native" name="platform_external_ant-wireless_ant_native" remote="github" />
@@ -97,7 +97,7 @@
   <project path="system/media" name="platform_system_media" remote="github" />
   <project path="system/vold" name="platform_system_vold" remote="github" /> 
   <project path="system/qcom" name="platform_system_qcom" remote="github" />
-  <project path="vendor/aosp" name="platform_vendor_aosp" remote="github" />
+  <project path="vendor/aosp" name="platform_vendor_aosp" remote="zf2" />
   <project path="vendor/qcom/opensource/dpm" name="CyanogenMod/android_vendor_qcom_opensource_dpm" remote="cm" />
   <project path="vendor/qcom/opensource/fm" name="platform_vendor_qcom-opensource_fm" remote="github" />
   <project path="vendor/qcom/opensource/time-services" name="platform_vendor_qcom-opensource_time-services" remote="github" />
