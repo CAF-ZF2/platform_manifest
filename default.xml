@@ -73,7 +73,7 @@
   <project path="external/tinyalsa" name="platform_external_tinyalsa" remote="zf2" />
   <project path="external/tinycompress" name="platform_external_tinycompress" remote="github" />
   <project path="external/zlib" name="platform_external_zlib" remote="github" />
-  <project path="frameworks/av" name="platform_frameworks_av" remote="github" />
+  <project path="frameworks/av" name="platform_frameworks_av" remote="zf2" />
   <project path="frameworks/base" name="platform_frameworks_base" remote="github" />
   <project path="frameworks/native" name="platform_frameworks_native" remote="zf2" />
   <project path="hardware/broadcom/libbt" name="CyanogenMod/android_hardware_broadcom_libbt" remote="cm" />
@@ -440,7 +440,7 @@
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
-  <project path="packages/apps/SnapdragonCamera" name="platform/packages/apps/SnapdragonCamera" />
+  <project path="packages/apps/Snap" name="Cyanogenmod/android_packages_apps_Snap" remote="cm" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
