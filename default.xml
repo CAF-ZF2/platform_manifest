@@ -87,7 +87,7 @@
   <project path="hardware/qcom/wlan-caf" name="platform_hardware_qcom_wlan" groups="qcom_wlan" revision="mm6.0-caf" remote="github" />
   <project path="hardware/ril" name="platform_hardware_ril" groups="pdk" remote="zf2" />
   <project path="hardware/ril-caf" name="platform_hardware_ril" groups="pdk" revision="mm6.0-caf" remote="github" />
-  <project path="packages/apps/Bluetooth" name="platform_packages_apps_Bluetooth" remote="github" />
+  <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" remote="cm" />
   <project path="packages/apps/Settings" name="platform_packages_apps_Settings" remote="github" />
   <project path="packages/inputmethods/LatinIME" name="platform_packages_inputmethods_LatinIME" remote="github" />
   <project path="packages/providers/MediaProvider"  name="platform_packages_providers_MediaProvider" remote="github" />
