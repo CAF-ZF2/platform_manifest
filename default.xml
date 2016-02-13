@@ -47,7 +47,7 @@
   <project path="art" name="platform_art" remote="github" />
   <project path="bionic" name="platform_bionic" remote="zf2" />
   <project path="development" name="platform_development" remote="github" />
-  <project path="external/android-mock" name="platform_external_android-mock" remote="github" />
+  <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" remote="cm" />
   <project path="external/ant-wireless/ant_native" name="platform_external_ant-wireless_ant_native" remote="github" />
   <project path="external/ant-wireless/antradio-library" name="platform_external_ant-wireless_antradio-library" remote="github" />
   <project path="external/apache-http" name="platform_external_apache-http" remote="zf2" />
@@ -100,7 +100,7 @@
   <project path="vendor/aosp" name="platform_vendor_aosp" remote="zf2" />
   <project path="vendor/qcom/opensource/dpm" name="CyanogenMod/android_vendor_qcom_opensource_dpm" remote="cm" />
   <project path="vendor/qcom/opensource/fm" name="platform_vendor_qcom-opensource_fm" remote="github" />
-  <project path="vendor/qcom/opensource/time-services" name="platform_vendor_qcom-opensource_time-services" remote="github" />
+ 
   
 <!-- BEGIN CYANOGENMOD -->
   <project path="external/stlport" name="CyanogenMod/android_external_stlport" remote="cm" />
@@ -513,6 +513,7 @@
   <project path="system/keymaster" name="platform/system/keymaster" />
   <project path="system/netd" name="platform/system/netd"  />
   <project path="system/security" name="platform/system/security" />
+  <project name="platform/vendor/qcom-opensource/time-services" path="vendor/qcom/opensource/time-services"/>
 <!-- END CODEAURORA -->
 
 <!-- BEGIN Z00A -->
